@@ -1,10 +1,10 @@
 body{
-  background-color: slateblue;
+  background-color: darksalmon;
 }
 
 button{
   background-color: #e7e7e7;
-  color: black;
+  color: darksalmon;
 }
 
 .btn-outline-success {
@@ -19,4 +19,18 @@ button{
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: black;
     background-color: white;
+}
+
+.aboutme0{
+  padding-left: 20px;
+}
+
+.aboutme1{
+  padding-left: 20px;
+  padding-right: 800px;
+}
+
+.aboutme2{
+  padding-left: 20px;
+  padding-right: 800px;
 }
